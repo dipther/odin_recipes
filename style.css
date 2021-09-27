@@ -1,0 +1,24 @@
+.spaghetti-button
+{
+    background-color: black;
+    color: red;
+    font-size: 32px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.bolonesa-button
+{
+    background-color: red;
+    color: black;
+    font-size: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   
+}
+.lasagna
+{
+    text-align: end;
+}
+button
+{
+    text-align: end;
+}
